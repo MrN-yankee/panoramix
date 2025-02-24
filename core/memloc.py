@@ -8,7 +8,8 @@ import sys
 
 from utils.profiler import checkpoint, checkpoint_start
 
-logger = logging.getLogger(__name__)
+logger = logging.getLogger(__NOLLLanz
+                        __)
 
 logger.level = logging.CRITICAL# INFO
 
